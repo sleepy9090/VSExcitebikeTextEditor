@@ -1,0 +1,15 @@
+F:\Users\sleepy\Documents\visual studio 2013\Projects\VSExcitebikeTextEditor\VSExcitebikeTextEditor\bin\Release\VSExcitebikeTextEditor.exe
+F:\Users\sleepy\Documents\visual studio 2013\Projects\VSExcitebikeTextEditor\VSExcitebikeTextEditor\bin\Release\VSExcitebikeTextEditor.pdb
+F:\Users\sleepy\Documents\visual studio 2013\Projects\VSExcitebikeTextEditor\VSExcitebikeTextEditor\obj\Release\VSExcitebikeTextEditor.AboutBox1.resources
+F:\Users\sleepy\Documents\visual studio 2013\Projects\VSExcitebikeTextEditor\VSExcitebikeTextEditor\obj\Release\VSExcitebikeTextEditor.FormHUD.resources
+F:\Users\sleepy\Documents\visual studio 2013\Projects\VSExcitebikeTextEditor\VSExcitebikeTextEditor\obj\Release\VSExcitebikeTextEditor.FormMain.resources
+F:\Users\sleepy\Documents\visual studio 2013\Projects\VSExcitebikeTextEditor\VSExcitebikeTextEditor\obj\Release\VSExcitebikeTextEditor.FormDefaultRecordInitials.resources
+F:\Users\sleepy\Documents\visual studio 2013\Projects\VSExcitebikeTextEditor\VSExcitebikeTextEditor\obj\Release\VSExcitebikeTextEditor.FormMisc.resources
+F:\Users\sleepy\Documents\visual studio 2013\Projects\VSExcitebikeTextEditor\VSExcitebikeTextEditor\obj\Release\VSExcitebikeTextEditor.FormRegistration.resources
+F:\Users\sleepy\Documents\visual studio 2013\Projects\VSExcitebikeTextEditor\VSExcitebikeTextEditor\obj\Release\VSExcitebikeTextEditor.FormSelectTrack.resources
+F:\Users\sleepy\Documents\visual studio 2013\Projects\VSExcitebikeTextEditor\VSExcitebikeTextEditor\obj\Release\VSExcitebikeTextEditor.FormTrackComplete.resources
+F:\Users\sleepy\Documents\visual studio 2013\Projects\VSExcitebikeTextEditor\VSExcitebikeTextEditor\obj\Release\VSExcitebikeTextEditor.FormTutorial.resources
+F:\Users\sleepy\Documents\visual studio 2013\Projects\VSExcitebikeTextEditor\VSExcitebikeTextEditor\obj\Release\VSExcitebikeTextEditor.Properties.Resources.resources
+F:\Users\sleepy\Documents\visual studio 2013\Projects\VSExcitebikeTextEditor\VSExcitebikeTextEditor\obj\Release\VSExcitebikeTextEditor.csproj.GenerateResource.Cache
+F:\Users\sleepy\Documents\visual studio 2013\Projects\VSExcitebikeTextEditor\VSExcitebikeTextEditor\obj\Release\VSExcitebikeTextEditor.exe
+F:\Users\sleepy\Documents\visual studio 2013\Projects\VSExcitebikeTextEditor\VSExcitebikeTextEditor\obj\Release\VSExcitebikeTextEditor.pdb

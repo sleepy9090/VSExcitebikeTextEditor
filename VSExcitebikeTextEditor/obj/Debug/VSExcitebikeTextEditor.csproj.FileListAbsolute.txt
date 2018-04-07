@@ -1,0 +1,16 @@
+f:\users\sleepy\documents\visual studio 2013\Projects\VSExcitebikeTextEditor\VSExcitebikeTextEditor\obj\Debug\VSExcitebikeTextEditor.csprojResolveAssemblyReference.cache
+f:\users\sleepy\documents\visual studio 2013\Projects\VSExcitebikeTextEditor\VSExcitebikeTextEditor\obj\Debug\VSExcitebikeTextEditor.AboutBox1.resources
+f:\users\sleepy\documents\visual studio 2013\Projects\VSExcitebikeTextEditor\VSExcitebikeTextEditor\obj\Debug\VSExcitebikeTextEditor.Properties.Resources.resources
+f:\users\sleepy\documents\visual studio 2013\Projects\VSExcitebikeTextEditor\VSExcitebikeTextEditor\obj\Debug\VSExcitebikeTextEditor.csproj.GenerateResource.Cache
+f:\users\sleepy\documents\visual studio 2013\Projects\VSExcitebikeTextEditor\VSExcitebikeTextEditor\bin\Debug\VSExcitebikeTextEditor.exe
+f:\users\sleepy\documents\visual studio 2013\Projects\VSExcitebikeTextEditor\VSExcitebikeTextEditor\bin\Debug\VSExcitebikeTextEditor.pdb
+f:\users\sleepy\documents\visual studio 2013\Projects\VSExcitebikeTextEditor\VSExcitebikeTextEditor\obj\Debug\VSExcitebikeTextEditor.exe
+f:\users\sleepy\documents\visual studio 2013\Projects\VSExcitebikeTextEditor\VSExcitebikeTextEditor\obj\Debug\VSExcitebikeTextEditor.pdb
+F:\Users\sleepy\Documents\visual studio 2013\Projects\VSExcitebikeTextEditor\VSExcitebikeTextEditor\obj\Debug\VSExcitebikeTextEditor.FormMain.resources
+F:\Users\sleepy\Documents\visual studio 2013\Projects\VSExcitebikeTextEditor\VSExcitebikeTextEditor\obj\Debug\VSExcitebikeTextEditor.FormDefaultRecordInitials.resources
+F:\Users\sleepy\Documents\visual studio 2013\Projects\VSExcitebikeTextEditor\VSExcitebikeTextEditor\obj\Debug\VSExcitebikeTextEditor.FormHUD.resources
+F:\Users\sleepy\Documents\visual studio 2013\Projects\VSExcitebikeTextEditor\VSExcitebikeTextEditor\obj\Debug\VSExcitebikeTextEditor.FormMisc.resources
+F:\Users\sleepy\Documents\visual studio 2013\Projects\VSExcitebikeTextEditor\VSExcitebikeTextEditor\obj\Debug\VSExcitebikeTextEditor.FormRegistration.resources
+F:\Users\sleepy\Documents\visual studio 2013\Projects\VSExcitebikeTextEditor\VSExcitebikeTextEditor\obj\Debug\VSExcitebikeTextEditor.FormSelectTrack.resources
+F:\Users\sleepy\Documents\visual studio 2013\Projects\VSExcitebikeTextEditor\VSExcitebikeTextEditor\obj\Debug\VSExcitebikeTextEditor.FormTrackComplete.resources
+F:\Users\sleepy\Documents\visual studio 2013\Projects\VSExcitebikeTextEditor\VSExcitebikeTextEditor\obj\Debug\VSExcitebikeTextEditor.FormTutorial.resources
